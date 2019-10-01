@@ -15,9 +15,13 @@ App : QT5 C++
 # UML Graph
 ![Image text](https://raw.githubusercontent.com/Bo-L/pathology-image-process-system/master/pic/structure.png)
 
-
+# Function bar
 ![Image text](https://raw.githubusercontent.com/Bo-L/pathology-image-process-system/master/pic/pic1.png)
+# Load WSI 
 ![Image text](https://raw.githubusercontent.com/Bo-L/pathology-image-process-system/master/pic/pic2.png)
+# Annotation
 ![Image text](https://raw.githubusercontent.com/Bo-L/pathology-image-process-system/master/pic/pic3.png)
+# Automatic Segmentation
 ![Image text](https://raw.githubusercontent.com/Bo-L/pathology-image-process-system/master/pic/pic4.png)
+# Generate Report
 ![Image text](https://raw.githubusercontent.com/Bo-L/pathology-image-process-system/master/pic/pic5.png)
